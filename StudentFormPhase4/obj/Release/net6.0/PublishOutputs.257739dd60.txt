@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\StudentFormPhase4\StudentFormPhase4\obj\Release\net6.0\PubTmp\Out\StudentFormPhase4.exe
+C:\Users\Admin\source\repos\StudentFormPhase4\StudentFormPhase4\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Admin\source\repos\StudentFormPhase4\StudentFormPhase4\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Admin\source\repos\StudentFormPhase4\StudentFormPhase4\obj\Release\net6.0\PubTmp\Out\StudentFormPhase4.dll
+C:\Users\Admin\source\repos\StudentFormPhase4\StudentFormPhase4\obj\Release\net6.0\PubTmp\Out\StudentFormPhase4.deps.json
+C:\Users\Admin\source\repos\StudentFormPhase4\StudentFormPhase4\obj\Release\net6.0\PubTmp\Out\StudentFormPhase4.runtimeconfig.json
+C:\Users\Admin\source\repos\StudentFormPhase4\StudentFormPhase4\obj\Release\net6.0\PubTmp\Out\StudentFormPhase4.pdb
